@@ -1,4 +1,4 @@
 # othello_game
 Othello Game
 
-Installer otheell_game/output
+Installer othello_game/output
